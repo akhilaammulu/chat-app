@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css'; // Keep your existing CSS import
-import Login from './components/Login'; // Import the Login component
+import Login from './components/Login.js'; // Import the Login component
 import Register from './components/Register'; // Import the Register component
 import Chat from './components/Chat'; // Import your existing Chat component
 
